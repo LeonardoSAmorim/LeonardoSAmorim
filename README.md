@@ -22,7 +22,7 @@
 
 <br/>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Lazarus](https://img.shields.io/badge/Lazarus_IDE-00529B?style=for-the-badge&logo=delphi&logoColor=white)
 
 <br/>
