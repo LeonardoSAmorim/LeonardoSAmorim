@@ -1,7 +1,5 @@
 <div align="center">
 
-# Leonardo Amorim
-
 <p align="center">
   <a href="mailto:leonardosamorim@outlook.com.br">
     <img src="https://img.shields.io/badge/Email-leonardosamorim%40outlook.com.br-F54E0C?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
@@ -84,7 +82,7 @@
 </div>
 
 <div style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoSAmorim&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoSAmorim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues" alt="GitHub Stats" />
 </div>
 
 ---
