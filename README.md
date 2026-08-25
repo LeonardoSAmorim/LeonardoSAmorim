@@ -41,12 +41,11 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSAmorim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSAmorim&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=LeonardoSAmorim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoSAmorim&theme=tokyonight&hide_border=true" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoSAmorim&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
