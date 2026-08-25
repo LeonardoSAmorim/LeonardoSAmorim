@@ -70,6 +70,13 @@
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br/>
+
+![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![GNU GPLv3](https://img.shields.io/badge/GNU_GPLv3-A80030?style=for-the-badge&logo=gnu&logoColor=white)
+![Free Software](https://img.shields.io/badge/Free_Software-005A9C?style=for-the-badge&logo=gnu&logoColor=white)
+![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)
+
 ---
 
 <div style="margin: 20px 0;">
