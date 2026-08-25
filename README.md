@@ -15,13 +15,26 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### Linguagens
+#### Linguagens & IDEs
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Delphi](https://img.shields.io/badge/Delphi-EE3124?style=for-the-badge&logo=delphi&logoColor=white)
+![Lazarus](https://img.shields.io/badge/Lazarus-Free_Pascal-00529B?style=for-the-badge&logo=lazarus&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Sistemas, Emulação & Compatibilidade (Win / ARM)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows Phone](https://img.shields.io/badge/Windows_Phone-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
+![Wine](https://img.shields.io/badge/Wine%20(Win32%2F64)-8E1430?style=for-the-badge&logo=wine&logoColor=white)
+![Mono](https://img.shields.io/badge/Mono%20(.NET)-374151?style=for-the-badge&logo=mono&logoColor=white)
+![FEX-Emu](https://img.shields.io/badge/FEX--Emu-ARM64-FF6F00?style=for-the-badge&logo=cpu&logoColor=white)
+![Box64 / Box86](https://img.shields.io/badge/Box64%20%2F%20Box86-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
+![Vulkan / DXVK](https://img.shields.io/badge/Vulkan%20%2F%20DXVK-red?style=for-the-badge&logo=vulkan&logoColor=white)
 
 #### Frontend & Web Apps
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,14 +42,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-#### Mobile, Sistemas & Emulação (Win / ARM)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows Phone](https://img.shields.io/badge/Windows_Phone-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
-![Wine](https://img.shields.io/badge/Wine%20(Win%20Layer)-8E1430?style=for-the-badge&logo=wine&logoColor=white)
-![Box64 / x86](https://img.shields.io/badge/Box64%20%2F%20x86_on_ARM-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
-![Vulkan / DXVK](https://img.shields.io/badge/Vulkan%20%2F%20DXVK-red?style=for-the-badge&logo=vulkan&logoColor=white)
 
 #### Offline-First, Storage & Bancos
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-Dexie.js-FFA500?style=for-the-badge&logo=databricks&logoColor=white)
