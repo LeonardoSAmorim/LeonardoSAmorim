@@ -81,10 +81,6 @@
   <img src="https://streak-stats.demolab.com/?user=LeonardoSAmorim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div style="margin-top: 15px;">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoSAmorim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues" alt="GitHub Stats" />
-</div>
-
 ---
 
 </div>
