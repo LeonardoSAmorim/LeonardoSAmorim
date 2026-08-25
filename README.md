@@ -16,11 +16,30 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-00529B?style=for-the-badge&logo=delphi&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-EE3124?style=for-the-badge&logo=delphi&logoColor=white)
-![Lazarus](https://img.shields.io/badge/Lazarus-00529B?style=for-the-badge&logo=delphi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+<br/>
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Lazarus](https://img.shields.io/badge/Lazarus_IDE-00529B?style=for-the-badge&logo=delphi&logoColor=white)
+
+<br/>
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1EC?style=for-the-badge&logo=zorin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<br/>
+
+![Wine](https://img.shields.io/badge/Wine-8E1430?style=for-the-badge&logo=wine&logoColor=white)
+![Mono](https://img.shields.io/badge/Mono%20(.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FEX-Emu](https://img.shields.io/badge/FEX--Emu-FF6F00?style=for-the-badge&logo=arm&logoColor=white)
+![Box64 / Box86](https://img.shields.io/badge/Box64%20%2F%20Box86-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Vulkan / DXVK](https://img.shields.io/badge/Vulkan%20%2F%20DXVK-red?style=for-the-badge&logo=vulkan&logoColor=white)
 
 <br/>
 
@@ -29,20 +48,6 @@
 ![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning_%26_LoRA-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-<br/>
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1EC?style=for-the-badge&logo=zorin&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Wine](https://img.shields.io/badge/Wine-8E1430?style=for-the-badge&logo=wine&logoColor=white)
-![Mono](https://img.shields.io/badge/Mono%20(.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-<br/>
-![FEX-Emu](https://img.shields.io/badge/FEX--Emu-FF6F00?style=for-the-badge&logo=arm&logoColor=white)
-![Box64 / Box86](https://img.shields.io/badge/Box64%20%2F%20Box86-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![Vulkan / DXVK](https://img.shields.io/badge/Vulkan%20%2F%20DXVK-red?style=for-the-badge&logo=vulkan&logoColor=white)
 
 <br/>
 
