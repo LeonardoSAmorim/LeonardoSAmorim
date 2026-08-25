@@ -26,12 +26,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 #### Sistemas, Emulação & Compatibilidade
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1EC?style=for-the-badge&logo=zorin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows Phone](https://img.shields.io/badge/Windows_Phone-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Phone](https://img.shields.io/badge/Windows_Phone-00A4EF?style=for-the-badge&logo=windows11&logoColor=white)
 ![Wine](https://img.shields.io/badge/Wine%20(Win32%2F64)-8E1430?style=for-the-badge&logo=wine&logoColor=white)
 ![Mono](https://img.shields.io/badge/Mono%20(.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FEX-Emu](https://img.shields.io/badge/FEX--Emu%20(ARM64)-FF6F00?style=for-the-badge&logo=arm&logoColor=white)
